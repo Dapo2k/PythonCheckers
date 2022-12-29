@@ -1,3 +1,2 @@
 # PythonCheckers
-Checkers in Python \n
-Main file is CheckersGame.py
+Checkers in Python, main file is CheckersGame.py
